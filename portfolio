@@ -8,12 +8,12 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
+        <h1>sreenath</h1>
         <p>Web Developer</p>
     </header>
     
     <section id="about">
-        <img src="profile.jpg" alt="Your Name">
+        <img src="profile.jpg" alt="sreenath">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </section>
     
@@ -42,7 +42,7 @@
     
     <section id="resume">
         <h2>Resume</h2>
-        <a href="resume.pdf" download>Download Resume</a>
+        <a href="myresume.pdf" download>Download Resume</a>
     </section>
     
     <section id="contact">
@@ -52,7 +52,7 @@
     </section>
     
     <footer>
-        <p>&copy; 2023 Your Name</p>
+        <p>&copy; 2023 sreenath</p>
         <p><a href="https://www.linkedin.com/yourprofile">LinkedIn</a></p>
     </footer>
 </body>
